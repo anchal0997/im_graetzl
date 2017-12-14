@@ -47,6 +47,9 @@ $ rake db:setup
 
 # populate database with sample data
 $ rake db:populate
+
+# calculate the district-graetzl relationships
+$ rails db:connect_districts_graetzls
 ```
 
 Adapt your *Procfile.dev* based on your local database settings

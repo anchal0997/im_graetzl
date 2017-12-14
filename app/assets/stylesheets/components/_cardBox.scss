@@ -260,9 +260,11 @@
     width: 35px;
     height: 35px;
     padding: 1px;
+    position: absolute;
+    top: 3px;
   }
-
-
+  
+  .userAndType { margin-left: 45px; }
 
   .commentslink {
     color: $color-ambient-rosa;
