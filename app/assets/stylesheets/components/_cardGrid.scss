@@ -18,8 +18,10 @@
     }
 
     .coverImg {
-      min-width: 292px;
-      min-height: 176px;
+      // min-width: 292px;
+      // min-height: 176px;
+      width: 100%;
+      height: auto;
     }
 
     .no-results-box {
